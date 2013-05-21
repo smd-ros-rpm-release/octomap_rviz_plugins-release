@@ -16,7 +16,7 @@ tracks:
     release_tag: :{version}
     ros_distro: groovy
     vcs_type: git
-    vcs_uri: https://github.com/ros-visualization/octomap_rviz_plugins.git
+    vcs_uri: https://github.com/OctoMap/octomap_rviz_plugins.git
     version: :{auto}
   hydro:
     actions:
@@ -35,5 +35,5 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: git@github.com:ros-visualization/octomap_rviz_plugins.git
+    vcs_uri: https://github.com/OctoMap/octomap_rviz_plugins.git
     version: :{auto}
