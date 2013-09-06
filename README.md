@@ -1,3 +1,22 @@
+## octomap_rviz_plugins - 0.0.5-0
+
+User `hornunga@colorrado` released the packages in the `octomap_rviz_plugins` repository by running `/usr/bin/bloom-release octomap_rviz_plugins --track hydro --rosdistro hydro` on `Fri, 06 Sep 2013 07:53:33 -0000`
+
+The `octomap_rviz_plugins` package was released.
+
+Version of package(s) in repository `octomap_rviz_plugins`:
+- rosdistro version: `0.0.4-0`
+- old version: `0.0.4-0`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.31`
+
+
 ## octomap_rviz_plugins - 0.0.4-0
 
 User `hornunga@colorrado` released the packages in the `octomap_rviz_plugins` repository by running `/usr/bin/bloom-release octomap_rviz_plugins --track hydro --rosdistro hydro` on `Thu, 01 Aug 2013 12:58:45 -0000`
