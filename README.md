@@ -1,3 +1,22 @@
+## octomap_rviz_plugins (groovy) - 0.0.4-1
+
+The packages in the `octomap_rviz_plugins` repository were released into the `groovy` distro by running `/usr/bin/bloom-release --track groovy --ros-distro groovy octomap_rviz_plugins` on `Fri, 23 May 2014 08:31:38 -0000`
+
+The `octomap_rviz_plugins` package was released.
+
+Version of package(s) in repository `octomap_rviz_plugins`:
+- rosdistro version: `0.0.4-0`
+- old version: `0.0.4-0`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.32`
+
+
 ## octomap_rviz_plugins (indigo) - 0.0.5-0
 
 User `hornunga@colorrado` released the packages in the `octomap_rviz_plugins` repository into the `indigo` distro by running `/usr/bin/bloom-release octomap_rviz_plugins --track indigo --rosdistro indigo --new-track` on `Mon, 14 Apr 2014 09:12:40 -0000`
